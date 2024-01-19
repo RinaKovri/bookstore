@@ -1,0 +1,18 @@
+{
+  "items" : {
+    "-MGvq69vFRNAi6N4RPPf" : {
+      "title" : "Anna Karenina", 
+      "author" : "Lev Tolstoy", 
+      "year" : "1877",
+      "Isbn" : "9780140864854",
+      "price" : "13,5"
+    },
+    "-MGvqCptPhR1BMdNN2IQ" : {
+      "title" : "The Lord of the rings",
+      "author" : "J.R.R.Tolkien",
+      "year" : "1937",
+      "Isbn" : "9780141191447",
+      "price" : "23,50"
+    }
+  }
+}
